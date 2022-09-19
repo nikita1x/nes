@@ -1,0 +1,292 @@
+Uri: http://dyadkovspride.tilda.ws/
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/blog1
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\blog1.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/blog2
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\blog2.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/blog3
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\blog3.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/blog4
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\blog4.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/cat-1
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-1-1.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/cat-2
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-2-1.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/cat-3
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-3-1.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/cat-4
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-4-1.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/cat-5
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-5-1.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/cat-6
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-6-1.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/poisk_dryga
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\poisk_dryga.html
+Content Type: text/html
+
+Uri: http://dyadkovspride.tilda.ws/tilda-blocks-2.14.css?t=1653416285
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tilda-blocks-2.14-2.css
+Content Type: text/css
+
+Uri: http://dyadkovspride.tilda.ws/tilda-blocks-2.14.css?t=1653416433
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: http://dyadkovspride.tilda.ws/tilda-blocks-2.8.js?t=1653416285
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tilda-blocks-2.8-2.js
+Content Type: application/javascript
+
+Uri: http://dyadkovspride.tilda.ws/tilda-blocks-2.8.js?t=1653416433
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tilda-blocks-2.8.js
+Content Type: application/javascript
+
+Uri: https://dyadkovspride.tilda.ws/
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\index-1.htm
+Content Type: text/html
+
+Uri: https://dyadkovspride.tilda.ws/cat-1
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-1.html
+Content Type: text/html
+
+Uri: https://dyadkovspride.tilda.ws/cat-2
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-2.html
+Content Type: text/html
+
+Uri: https://dyadkovspride.tilda.ws/cat-3
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-3.html
+Content Type: text/html
+
+Uri: https://dyadkovspride.tilda.ws/cat-4
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-4.html
+Content Type: text/html
+
+Uri: https://dyadkovspride.tilda.ws/cat-5
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-5.html
+Content Type: text/html
+
+Uri: https://dyadkovspride.tilda.ws/cat-6
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\cat-6.html
+Content Type: text/html
+
+Uri: https://dyadkovspride.tilda.ws/tilda-blocks-2.14.css?t=1653416285
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tilda-blocks-2.14-3.css
+Content Type: text/css
+
+Uri: https://dyadkovspride.tilda.ws/tilda-blocks-2.14.css?t=1653416433
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tilda-blocks-2.14-1.css
+Content Type: text/css
+
+Uri: https://dyadkovspride.tilda.ws/tilda-blocks-2.8.js?t=1653416285
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tilda-blocks-2.8-3.js
+Content Type: application/javascript
+
+Uri: https://dyadkovspride.tilda.ws/tilda-blocks-2.8.js?t=1653416433
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tilda-blocks-2.8-1.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://stat.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-carousel-1.0.min.css
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\css\tilda-carousel-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-zero-gallery-1.0.min.css
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\css\tilda-zero-gallery-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.info/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-ext-1.0.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-animation-ext-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-zero-1.0.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-zero-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/tild3031-6564-4831-b933-316437376165/-/resize/20x/1440755.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3031-6564-4831-b933-316437376165\-\resize\20x\1440755.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3062-3839-4233-b039-333465303133/-/resize/20x/3437506.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3062-3839-4233-b039-333465303133\-\resize\20x\3437506.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3135-3233-4932-a161-393133646163/-/resize/20x/5585562.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3135-3233-4932-a161-393133646163\-\resize\20x\5585562.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3230-3064-4564-a337-386231313336/-/resize/20x/1089370.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3230-3064-4564-a337-386231313336\-\resize\20x\1089370.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3237-3534-4738-a432-613635383365/-/resize/20x/54a652a0-b0eb-4223-8.jpg
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3237-3534-4738-a432-613635383365\-\resize\20x\54a652a0-b0eb-4223-8.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3238-6138-4137-b365-653435653461/-/resize/20x/807409.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3238-6138-4137-b365-653435653461\-\resize\20x\807409.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3263-3230-4632-a663-663339643664/-/resize/20x/2504941.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3263-3230-4632-a663-663339643664\-\resize\20x\2504941.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3334-3561-4937-b437-393838663931/-/resize/20x/2504953.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3334-3561-4937-b437-393838663931\-\resize\20x\2504953.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3463-3663-4562-a139-393235333065/-/resize/20x/08feba83-1e3d-442e-9.jpg
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3463-3663-4562-a139-393235333065\-\resize\20x\08feba83-1e3d-442e-9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3464-6136-4133-a539-363238333135/-/resize/20x/2504957.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3464-6136-4133-a539-363238333135\-\resize\20x\2504957.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3533-3132-4334-a166-633161646234/-/resize/20x/05b95589-198b-4f64-9.jpg
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3533-3132-4334-a166-633161646234\-\resize\20x\05b95589-198b-4f64-9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3564-3033-4532-a534-373437343039/-/resize/20x/1956335.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3564-3033-4532-a534-373437343039\-\resize\20x\1956335.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3636-3630-4239-b261-393266663537/-/resize/20x/1d6b361d-08af-476d-b.jpg
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3636-3630-4239-b261-393266663537\-\resize\20x\1d6b361d-08af-476d-b.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3666-6332-4130-a264-313265396561/-/resize/20x/3373799.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3666-6332-4130-a264-313265396561\-\resize\20x\3373799.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3936-3466-4134-a535-333432313438/-/resize/20x/631a0456-834b-4078-9.jpg
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild3936-3466-4134-a535-333432313438\-\resize\20x\631a0456-834b-4078-9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6339-3163-4961-b931-303831323232/-/resize/20x/2504948.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild6339-3163-4961-b931-303831323232\-\resize\20x\2504948.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6365-6230-4332-a264-343731613663/-/resize/20x/12188.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild6365-6230-4332-a264-343731613663\-\resize\20x\12188.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6534-3064-4465-b235-663738346533/-/resize/20x/4295296.png
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild6534-3064-4465-b235-663738346533\-\resize\20x\4295296.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6635-6138-4064-b331-343037353537/-/resize/20x/cc205b01-5763-4f35-b.jpg
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild6635-6138-4064-b331-343037353537\-\resize\20x\cc205b01-5763-4f35-b.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6639-6362-4735-b432-393434373164/-/resize/20x/f447e66c-2307-461c-a.jpg
+File Name: C:\Downloaded Web Sites\dyadkovspride.tilda.ws\tild6639-6362-4735-b432-393434373164\-\resize\20x\f447e66c-2307-461c-a.jpg
+Content Type: image/jpeg
+
