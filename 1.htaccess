@@ -1,0 +1,7 @@
+<meta http-equiv="refresh" content="1; devon-rex.tk/">
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)\.htm$ $1.html [R=301,L]
+RewriteRule ^(([^/]+/)*[^.]+)$ /$1.html [L]
+RewriteEngine On
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+RewriteRule ^index\.html$ http://www.devon-rex.tk [R=301,L]
